@@ -14,6 +14,8 @@ Note the only part this script doesn't do is the following:
 
 This is because it is assumed that this is in your profile/cfg/config.cfg.
 
+Then, it copies your custom profile's config files and custom files into the TF2 directory.
+
 ## Usage
 
 Currently we only support Windows.
