@@ -31,7 +31,7 @@ I will use the example of `C:/dot-tf2/`
 This folder contains the `dot-tf2.ps1` file, so if you download then 'Extract All' you might have the path `Downloads/dot-tf2-main/...`
 
 ```bash
-cw C:/dot-tf2/
+cd C:/dot-tf2/
 
 # Run the script
 ./dot-tf2.ps1 [profile]
