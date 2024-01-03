@@ -1,0 +1,16 @@
+"motd_entries"
+{
+	"last_request_time"		"2024-01-02 17:57:08"
+	"last_request_language"		"english"
+	"112"
+	{
+		"post_time"		"2023-12-08 17:55:00"
+		"title_english"		"Merry Smissmas"
+		"text_english"		"Smissmas brings Stocking Stuffers for everyone, featured community maps, new community cosmetics, new community Unusual effects, and new community taunts! Festivizers can be found as a random bonus when opening the Winter 2023 Cosmetic Case! Smissmas runs through January 7, 2024."
+		"url"		"http://www.teamfortress.com/post.php?id=213565"
+		"image"		"../backpack/crafting/winter2013_stocking_stuffer_large"
+		"header_type"		"0"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+}

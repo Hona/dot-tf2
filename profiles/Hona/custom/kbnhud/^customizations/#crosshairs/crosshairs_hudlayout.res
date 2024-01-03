@@ -1,0 +1,37 @@
+"Resource/HudLayout.res"
+{
+	"CustomCrosshair1"
+	{
+		"visible"	"0"
+		"controlName"	"CExLabel"
+		"fieldName"	"CustomCrosshair1"
+		"enabled"	"0"
+		"zpos"	"3"
+		"textAlignment"	"center"
+		"labelText"	"p"
+		"font"	"Size:20 | Outline:OFF"
+		"xpos"	"c-50"
+		"ypos"	"c-50"
+		"wide"	"100"
+		"tall"	"100"
+		"fgcolor"	"Crosshair 1"
+		"labeltext"	"p"
+	}
+	"CustomCrosshair2"
+	{
+		"visible"	"0"
+		"controlName"	"CExLabel"
+		"fieldName"	"CustomCrosshair2"
+		"enabled"	"0"
+		"zpos"	"2"
+		"textAlignment"	"center"
+		"labelText"	"p"
+		"font"	"Size:10 | Outline:OFF"
+		"xpos"	"c-50"
+		"ypos"	"c-50"
+		"wide"	"100"
+		"tall"	"100"
+		"fgcolor"	"Crosshair 2"
+		"labeltext"	"p"
+	}
+}
