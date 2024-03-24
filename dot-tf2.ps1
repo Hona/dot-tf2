@@ -20,8 +20,8 @@ Write-Host Removing: $tf2Path\custom\*
 Remove-Item "$tf2Path\cfg\*" -Recurse -Force
 Remove-Item "$tf2Path\custom\*" -Recurse -Force
 
-Write-Host "Validating TF2 files... (restores potentially default files in cfg/custom, or any corrupt files)"
-Start-Process "steam://validate/440" -Wait
+#Write-Host "Validating TF2 files... (restores potentially default files in cfg/custom, or any corrupt files)"
+#Start-Process "steam://validate/440" -Wait
 
 Write-Host "Installing profile '$profile'"
 Copy-Item -Path ".\profiles\$profile\cfg\*" -Destination "$tf2Path\cfg" -Recurse -Force
